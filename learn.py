@@ -292,3 +292,55 @@
 # 7 : = RTL
 
 # ???????????????????????????????????????????????? #
+
+# ************************************************ #
+
+""" Find th minimum of 3 values """
+
+# number1 = int(input("Enter Your First NUmber : ")) 
+# number2 = int(input("Enter Your Second NUmber : ")) 
+# number3 = int(input("Enter Your Third NUmber : ")) 
+
+# minimum = number1
+
+# if number2 < minimum :
+#     minimum = number2
+    
+# if number3 < minimum :
+#     minimum = number3
+    
+# print('Minimum Value Is', minimum)
+
+# ************************************************ #
+
+""" Find th minimum of 3 values """
+
+# number1 = int(input("Enter Your First NUmber : ")) 
+# number2 = int(input("Enter Your Second NUmber : ")) 
+# number3 = int(input("Enter Your Third NUmber : ")) 
+
+# print('Minimum Value Is', min(number1,number2,number3))
+
+# ************************************************ #
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# grade = 40
+
+# if grade >= 60 :
+#     print("Passed")
+    
+# if grade < 60 :
+#     print("Failed")
+    
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# grade = 40
+
+# if grade >= 60 :
+#     print("Passed")
+    
+# else :
+#     print("Failed")
+        
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
