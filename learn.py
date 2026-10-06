@@ -335,12 +335,104 @@
     
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
 
-# grade = 40
+# grade = 80
 
 # if grade >= 60 :
 #     print("Passed")
     
 # else :
 #     print("Failed")
+
+# ------------------------------------------------ #
+
+# grade = 80
+# result = ('Passed!' if grade >= 60 else 'Failed')
+# print(result)
         
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# grade = float(input("Enter Your Grade : "))
+
+# if grade >= 90:
+#     print("A")
+    
+# elif grade >= 80:
+#     print("B")
+    
+# elif grade >= 70:
+#     print("C")
+    
+# elif grade >= 60:
+#     print("D")
+    
+# else:
+#     print("Failed")
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# product = 51
+
+# while product <= 50:
+#     product = product * 3
+    
+# print(product)
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# for char in "Program":
+#     print(char, end='  ')
+    
+# P  r  o  g  r  a  m  
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# print("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", end=',')
+# print("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", end='#####')
+# print("ccccccccccccccccccccccccccccccccccc")
+
+# aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#####ccccccccccccccccccccccccccccccccccc
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# print(10, 20, 30, sep=" $ ")
+
+# 10 $ 20 $ 30
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# total = 0
+
+# for num in [2, 5, 8, 0]:
+#     total = total + num
+    
+# print(total)
+
+
+# total = 0
+
+# for num in [2, 5, 8, 0]:
+#     total += num
+    
+# print(total)
+
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# for counter in range(11):
+#     print(counter, end="    ")
+    
+# 0    1    2    3    4    5    6    7    8    9    10    
+    
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# TODO #############################################
+
+# c = c + 7 >>>>>>>>>>> c += 7
+# d = d - 4 >>>>>>>>>>> d -= 4
+# e = e * 5 >>>>>>>>>>> e *= 5
+# f = f ** 3 >>>>>>>>>> f **= 3
+# g = g / 2 >>>>>>>>>>> g /= 2
+# g = g // 2 >>>>>>>>>> g //= 2
+# h = h % 9 >>>>>>>>>>> h %= 9
+
+# TODO #############################################
