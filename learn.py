@@ -436,3 +436,77 @@
 # h = h % 9 >>>>>>>>>>> h %= 9
 
 # TODO #############################################
+
+# total = 0
+# grade_counter = 0
+# grades = [98,23,56,45,75,95,85,100,52,65]
+
+# for grade in grades:
+#     total += grade
+#     grade_counter += 1
+    
+# avarage = total / grade_counter
+# print(f'Class Avarage is {avarage}')
+
+# TODO #############################################
+
+# total = 0
+# grade_counter = 0
+
+# grade = int(input('Enter Your Number, -100 To End : '))
+
+# while grade != -100:
+#     total += grade
+#     grade_counter += 1
+#     grade = int(input('Enter Your Number, -100 To End : '))
+    
+# if grade_counter != 0:
+#     avarage = total // grade_counter
+#     print('-----------------------------')
+#     print(f'Class Avarage Is {avarage}')
+#     print('-----------------------------')
+# else:
+#     print('No Grade Were Entered')
+    
+# TODO #############################################
+
+# for num in range(5, 100, 10):
+#     print(num, end=' ')
+
+# 5 15 25 35 45 55 65 75 85 95
+
+# for num in range(50, 10, -2):
+#     print(num, end=' ')
+    
+# 50 48 46 44 42 40 38 36 34 32 30 28 26 24 22 20 18 16 14 12
+
+# TODO #############################################
+
+# from decimal import Decimal
+
+# x = Decimal('1000.00')
+# y = Decimal('2.00')
+
+# print(x / y)
+
+# TODO #############################################
+
+# from decimal import Decimal
+
+# principal = Decimal('1000.00')
+# rate = Decimal('2')
+
+# for year in range(1, 11):
+#     amount = principal * (1 + rate) ** year
+#     print(f'{year:>2}{amount:>20.2f}')
+    
+""" 4            81000.00
+    5           243000.00
+    6           729000.00
+    7          2187000.00
+    8          6561000.00
+    9         19683000.00
+    10         59049000.00 """
+
+# TODO #############################################
+
