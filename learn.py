@@ -581,3 +581,90 @@ grade = 87
 
 # ???????????????????????????????????????????????? #
 
+# number = int(input("Enter Your Number : "))
+
+# def square(num):
+#     """ Calculate the square of numbers """
+#     return num ** 2
+
+# print(f"The Square of {number} is {square(number)}")
+
+# ???????????????????????????????????????????????? #
+
+# num1 = int(input("Enter Your Number : "))
+# num2 = int(input("Enter Your Number : "))
+# num3 = int(input("Enter Your Number : "))
+
+# def maximum(num1, num2, num3):
+#     """Return the maximum of 3 numbers"""
+#     max_num = num1
+#     if num2 > num1:
+#         max_num = num2
+#     if num3 > max_num:
+#         max_num = num3
+#     return max_num
+
+# print(f"The Max Number Is {maximum(num1, num2, num3)}")
+
+# ???????????????????????????????????????????????? #
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# import random
+
+# for roll in range(10):
+#     print(random.randrange(1,6), end='\n')
+    
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# def rectangle_area(length=2, width=3):
+#     return length * width
+
+# print(rectangle_area(10, 7))
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# from math import pi
+
+# def circle_area(r):
+#     return r ** 2 * pi
+
+# print(circle_area(r=2))
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# def average(*args):
+#     return sum(args) / len(args)
+
+# print(average(10,56,87,5667,87,765,65))
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# test = 'Hello'
+
+# print(test)
+# print(test.lower())
+# print(test.upper())
+# # Hello
+# # hello
+# # HELLO
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+# x = 7
+
+# def try_to_change_global():
+#     global x
+#     x = 2
+#     print('x printed from try_to_change_global :',x,)
+    
+# def access_global():
+#     print('x printed from access_global :',x)
+
+# print(access_global())
+# print(try_to_change_global())
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #
+
+
+
